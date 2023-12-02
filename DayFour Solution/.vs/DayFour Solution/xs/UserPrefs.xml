@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CACAA8E4-C728-4E61-9086-3D063178E03B}|Default">
+  <MonoDevelop.Ide.ItemProperties.DayFour PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DayFour/Program.cs">
+    <Files>
+      <File FileName="DayFour/Program.cs" Line="75" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DayFour Solution" expanded="True">
+            <Node name="DayFour" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/bin/Debug/net6.0/DayFour
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/bin/Debug/net6.0/DayFour.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/bin/Debug/net6.0/DayFour.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/bin/Debug/net6.0/DayFour.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/bin/Debug/net6.0/DayFour.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/DayFour.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/DayFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/DayFour.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/DayFour.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/DayFour.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/DayFour.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/refint/DayFour.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/DayFour.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/DayFour.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /DayFour Solution/DayFour/obj/Debug/net6.0/ref/DayFour.dll

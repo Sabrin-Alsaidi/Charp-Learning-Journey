@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F4714BB5-1D00-4475-AA25-40122D67C86E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Day12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Day12/PhoneBook.cs">
+    <Files>
+      <File FileName="Day12/Program.cs" Line="21" Column="33" />
+      <File FileName="Day12/PhoneBook.cs" Line="67" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Day12 solution" expanded="True">
+            <Node name="Day12" expanded="True">
+              <Node name="PhoneBook.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

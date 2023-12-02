@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{79E85451-5D64-4C0D-8A53-A393F37E1C08}|Default">
+  <MonoDevelop.Ide.ItemProperties.Jadded_220Array PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Jadded Array/Program.cs">
+    <Files>
+      <File FileName="Jadded Array/Program.cs" Line="26" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Jadded Array Solution " expanded="True">
+            <Node name="Jadded Array" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

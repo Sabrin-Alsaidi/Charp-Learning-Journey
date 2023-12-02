@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/bin/Debug/net6.0/day7
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/bin/Debug/net6.0/day7.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/bin/Debug/net6.0/day7.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/bin/Debug/net6.0/day7.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/bin/Debug/net6.0/day7.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/day7.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/day7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/day7.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/day7.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/day7.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/day7.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/refint/day7.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/day7.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/day7.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /day7 Solution/day7/obj/Debug/net6.0/ref/day7.dll

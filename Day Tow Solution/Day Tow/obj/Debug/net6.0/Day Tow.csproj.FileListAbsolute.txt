@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\bin\Debug\net6.0\Day Tow.exe
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\bin\Debug\net6.0\Day Tow.deps.json
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\bin\Debug\net6.0\Day Tow.runtimeconfig.json
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\bin\Debug\net6.0\Day Tow.dll
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\bin\Debug\net6.0\Day Tow.pdb
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\Day Tow.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\Day Tow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\Day Tow.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\Day Tow.AssemblyInfo.cs
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\Day Tow.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\Day Tow.dll
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\refint\Day Tow.dll
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\Day Tow.pdb
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\Day Tow.genruntimeconfig.cache
+C:\Users\Training\Desktop\Sabrin Al-Saidi\Day Tow Solution\Day Tow\obj\Debug\net6.0\ref\Day Tow.dll

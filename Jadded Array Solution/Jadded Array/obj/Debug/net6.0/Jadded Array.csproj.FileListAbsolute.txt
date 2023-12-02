@@ -1,0 +1,30 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/refint/Jadded Array.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Jadded Array Solution/Jadded Array/obj/Debug/net6.0/ref/Jadded Array.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/bin/Debug/net6.0/Jadded Array.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/refint/Jadded Array.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/Jadded Array.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /untitled folder/Jadded Array Solution/Jadded Array/obj/Debug/net6.0/ref/Jadded Array.dll

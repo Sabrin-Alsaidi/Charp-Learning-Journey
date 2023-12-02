@@ -1,0 +1,15 @@
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\bin\Debug\net6.0\first_program.exe
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\bin\Debug\net6.0\first_program.deps.json
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\bin\Debug\net6.0\first_program.runtimeconfig.json
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\bin\Debug\net6.0\first_program.dll
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\bin\Debug\net6.0\first_program.pdb
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\first_program.csproj.AssemblyReference.cache
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\first_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\first_program.AssemblyInfoInputs.cache
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\first_program.AssemblyInfo.cs
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\first_program.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\first_program.dll
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\refint\first_program.dll
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\first_program.pdb
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\first_program.genruntimeconfig.cache
+C:\Users\Training\Desktop\Sabrin Al-Saidi\first_program_solution\first_program\obj\Debug\net6.0\ref\first_program.dll

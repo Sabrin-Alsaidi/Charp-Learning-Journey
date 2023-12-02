@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/bin/Debug/net6.0/DayThree
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/bin/Debug/net6.0/DayThree.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/bin/Debug/net6.0/DayThree.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/bin/Debug/net6.0/DayThree.dll
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/bin/Debug/net6.0/DayThree.pdb
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/DayThree.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/DayThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/DayThree.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/DayThree.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/DayThree.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/DayThree.dll
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/refint/DayThree.dll
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/DayThree.pdb
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/DayThree.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen (Full Stack ) /DayThree Solution/DayThree/obj/Debug/net6.0/ref/DayThree.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4B33A26D-E652-426F-8193-888F31284D68}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Inheritance PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance/Employee.cs">
+    <Files>
+      <File FileName="Inheritance/Program.cs" Line="13" Column="2" />
+      <File FileName="Inheritance/Human.cs" Line="11" Column="3" />
+      <File FileName="Inheritance/Student.cs" Line="11" Column="172" />
+      <File FileName="Inheritance/Employee.cs" Line="11" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance Solution" expanded="True">
+            <Node name="Inheritance" expanded="True">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
