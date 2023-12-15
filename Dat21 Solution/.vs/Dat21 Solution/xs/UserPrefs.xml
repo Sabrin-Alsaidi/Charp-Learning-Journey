@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{5B966190-CFDF-4EC1-BB8A-5F7CA732B4D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Dat21 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dat21/Models/Department.cs">
+    <Files>
+      <File FileName="Dat21/Program.cs" Line="15" Column="1" />
+      <File FileName="Dat21/MyDbContext/applicationDbContext.cs" Line="13" Column="1" />
+      <File FileName="Dat21/Employee.cs" Line="17" Column="27" />
+      <File FileName="Dat21/Models/Department.cs" Line="6" Column="3" />
+      <File FileName="Dat21/Models/Projects.cs" Line="10" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dat21 Solution" expanded="True">
+            <Node name="Dat21">
+              <Node name="Models">
+                <Node name="Department.cs" selected="True" />
+              </Node>
+              <Node name="MyDbContext" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/bin/Debug/net6.0/Day18
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/bin/Debug/net6.0/Day18.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/bin/Debug/net6.0/Day18.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/bin/Debug/net6.0/Day18.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/bin/Debug/net6.0/Day18.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/Day18.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/Day18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/Day18.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/Day18.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/Day18.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/Day18.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/refint/Day18.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/Day18.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/Day18.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day18 solution/Day18/obj/Debug/net6.0/ref/Day18.dll

@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/bin/Debug/net6.0/Day 15
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/bin/Debug/net6.0/Day 15.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/bin/Debug/net6.0/Day 15.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/bin/Debug/net6.0/Day 15.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/bin/Debug/net6.0/Day 15.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/Day 15.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/Day 15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/Day 15.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/Day 15.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/Day 15.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/Day 15.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/refint/Day 15.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/Day 15.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/Day 15.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Charp Class Practice/Day 15  Solution/Day 15/obj/Debug/net6.0/ref/Day 15.dll
